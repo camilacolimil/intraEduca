@@ -1,0 +1,9 @@
+{
+    "usuarios": [
+        {
+            "usuarioId": "x",
+            "correo": "email",
+            "nombre": "persona"
+        }
+    ]
+}
